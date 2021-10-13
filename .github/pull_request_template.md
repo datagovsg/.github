@@ -20,6 +20,11 @@ _How did you solve the problem?_
 
 - Details ...
 
+**Database changes**:
+
+- Details ...
+- *Have you added indexes on relevant tables?*
+
 ## Before & After Screenshots
 
 **BEFORE**:
